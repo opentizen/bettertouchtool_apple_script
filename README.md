@@ -2,15 +2,15 @@
 <br>
 This is Repositorie AppleScript for BetterTouchTool(BTT) <br>
 If you use this script, you can possible add code or modify(debugging)
-                                       <h3>#Reference for AppleScript this Links</h3>
+                                        <hr><h3>#Reference for AppleScript this Links</h3>
 Link1 : https://support.apple.com/ko-kr/guide/script-editor/welcome/mac <br>
 Link2 : https://www.macosxautomation.com/applescript/firsttutorial/index.html 
-                                         <h3>#Other reference links ..</h3>
+                                        <hr><h3>#Other reference links ..</h3>
 Homebrew : https://brew.sh/<br>
 Bettertouchtool : https://folivora.ai<br>
 Bettertouchtool brew : https://github.com/Homebrew/homebrew-cask/blob/master/Casks/bettertouchtool.rb<br>
 This Repositorie : https://github.com/opentizen/bettertouchtool_apple_script 
-                                         <hr><h3>#How to use BetterTouchTool(BTT) AppleScript</h3>
+                                        <hr><h3>#How to use BetterTouchTool(BTT) AppleScript</h3>
 1. First, You must be install bettertouchtool.app in your MacOS<br>
 2. You can use for download command "git clone" or ".sh" AppleScript for github repositorie<br>
 3. If you downloaded local storage, change file extension. -> delete ".sh" file extension. <br>
@@ -19,6 +19,7 @@ This Repositorie : https://github.com/opentizen/bettertouchtool_apple_script
 6. If you wanna function, you can add editor input code. Have a enjoy!<br>
 <br>
                                         <hr><h3>Let me File or code explain</h3>
+<img src="https://github.com/opentizen/bettertouchtool_apple_script/blob/master/images/touchbar_1.png">
 reminders.sh : notification form your save MacOS reminders<br>
 no_read_message_handoff.sh : notification from "dock" MacOS saved messages<br>
 no_read_email_handoff.sh : notification from "dock" MacOS saved email<br>
