@@ -17,7 +17,7 @@ This Repositorie : https://github.com/opentizen/bettertouchtool_apple_script
 4. Open the text editor or code editor, copy all code (command + c)<br>
 5. Open bettertouchtool(btt) in Macos, go to "TouchBar" Menu..<br>
 6. If you wanna function, you can add editor input code. Have a enjoy!<br>
-7. This is supoort languages korean or english, if you system language english, change your system languages setting codes.
+7. This is supoort languages korean or english, <br>if you system language english, change your system languages setting codes.
 <br>
                                         <hr><h3># Let me File or code explain</h3>
 <img src="https://github.com/opentizen/bettertouchtool_apple_script/blob/master/images/touchbar_1.png">
