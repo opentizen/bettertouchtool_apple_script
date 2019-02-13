@@ -20,9 +20,8 @@ This Repositorie : https://github.com/opentizen/bettertouchtool_apple_script
 <br>
                                         <hr><h3># Let me File or code explain</h3>
 <img src="https://github.com/opentizen/bettertouchtool_apple_script/blob/master/images/touchbar_1.png">
-<img scr="https://github.com/opentizen/bettertouchtool_apple_script/blob/master/images/touchbar_3.png">
-<img scr="https://github.com/opentizen/bettertouchtool_apple_script/blob/master/images/touchbar_4.png">
-<img scr="https://github.com/opentizen/bettertouchtool_apple_script/blob/master/images/touchbar_2.png">
+<img src="https://github.com/opentizen/bettertouchtool_apple_script/blob/master/images/sc1.png">
+<img src="https://github.com/opentizen/bettertouchtool_apple_script/blob/master/images/sc2.png">
 reminders.sh : notification form your save MacOS reminders<br>
 no_read_message_handoff.sh : notification from "dock" MacOS saved messages<br>
 no_read_email_handoff.sh : notification from "dock" MacOS saved email<br>
